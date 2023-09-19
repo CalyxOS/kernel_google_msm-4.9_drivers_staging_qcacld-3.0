@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7c195eb6_a8221333",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-19T22:36:11Z",
+      "side": 1,
+      "message": "Wi-Fi works.",
+      "revId": "7c2467123ae322b53309b0f79e89ef63949ae047",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
